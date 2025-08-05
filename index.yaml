@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cert-manager-lego-webhook:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-05T14:31:15.099133474Z"
+    description: A Helm chart for Kubernetes
+    digest: ecf5fe9c6f77d375f40a2897c0fd249be1eadc0acb1456016e007271c39d2bd8
+    name: cert-manager-lego-webhook
+    type: application
+    urls:
+    - https://github.com/FBranca/cert-manager-lego-webhook/releases/download/cert-manager-lego-webhook-1.2.1/cert-manager-lego-webhook-1.2.1.tgz
+    version: 1.2.1
+generated: "2025-08-05T14:31:15.099156973Z"
